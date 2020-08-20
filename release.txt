@@ -1,0 +1,63 @@
+RELEASE NOTES
+     release Beta: Computer able to guess numbers 1-10. (not released to the public)
+Giving the player a number to try to next.
+play again function.
+
+     release 0.1.0:  Difficulty update introducing Easy and Hard difficuties
+computer guesses 1-10 on easy
+computer guesses 1-20 on hard
+
+     release 0.2.1 try this update!
+you will now get output called try this number. All this does is give you a suggestion!
+ex. Try this number next! 10
+     
+     
+     release 0.3.2 the sound update!
+We added some sound to this game
+We now have loading screens.
+bug fixes in the sound.
+
+
+
+     release 0.4.2 Update
+Not much has been added 
+We added a you lose message when you guess the wrong number and a you win message when you guess the right number!
+the difficulties have been reduced
+So on easy: Guess the correct number 1-5
+      hard: Guess The correct number 1-10
+      
+      
+       release 0.5.2
+Still not much has been added
+new sounds for when you guess the wrong number and the right number
+new figures have been added as well
+ex.
+
+you lose :(
+❗
+
+or 
+
+you win :)!!
+☑
+
+
+
+     release 0.6.2
+We have added a user name function to the game!
+
+ex.
+
+type in your username:
+user input
+
+disclaimer: We do not keep any of these usernames that are inputed into the computer. We are planing to never bring 
+guessing game to world wide web.
+
+
+       release 0.7.3
+We have added a new addition to the game. 
+After every round the console out will clear when you tell the game that you want to play agian or not. 
+This is to help prevent crashes of python ide's
+
+also now with reduced loading speeds
